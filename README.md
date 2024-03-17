@@ -15,19 +15,19 @@ The Django Event Management System is a web application designed to simplify the
 #### Mobile Number: 7395915824
 #### Email: sandiipanish.cse2022@citchennai.net
 # About the project
-**User-friendly Interface:** 
+### **User-friendly Interface:** 
 The EMS provides a intuitive and user-friendly interface for event organizers to easily navigate and access all features.
-**Event Creation:** 
+### **Event Creation:** 
 Users can create new events by providing essential details such as event title, description, date, time, location, and other relevant information.
-**Participant Management:** 
+### **Participant Management:** 
 The system allows organizers to manage participants efficiently by sending invitations, tracking RSVPs, and communicating event details through automated notifications and reminders.
-**Schedule Management:** 
+### **Schedule Management:** 
 Organizers can create and manage event schedules, including sessions, speakers, agendas, and other program details, ensuring a well-organized and structured event flow.
-**Resource Management:** 
+### **Resource Management:** 
 Users can manage event resources such as venues, equipment, catering services, and other necessary resources to ensure smooth event execution.
-**Registration:** 
+### **Registration:** 
 Participants can easily register for events online through a user-friendly registration process. The system tracks registrations, manages ticketing if applicable, and provides confirmation to participants.
-**Communication:** 
+### **Communication:** 
 The EMS facilitates communication between organizers and participants through automated email notifications, reminders, and updates, ensuring participants are informed about event details and any changes.
-**Reporting:** 
+### **Reporting:** 
 The system generates comprehensive reports on event attendance, feedback, finances, and other metrics, providing valuable insights for analysis and decision-making.
