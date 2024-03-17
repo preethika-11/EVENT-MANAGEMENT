@@ -44,7 +44,10 @@ Convenient handling of SQLite3  including executing queries and configurations.
 Streamlined manipulation and optimization of event-related images using Pillow within VS Code.
 # Tech stack :-
 ### Backend Framework: 
-#### **Django** - A high-level Python web framework offering features like ORM, URL routing, authentication, and templating for complex application development.
-### Frontend Framework/Libraries: HTML, CSS, JavaScript for interface building. 
-### Database: SQLite3 (development/testing) - Lightweight, serverless relational database. 
-### Image Processing: Pillow - Python Imaging Library for tasks like image upload, resize, and manipulation.
+#### ***Django- A high-level Python web framework offering features like ORM, URL routing, authentication, and templating for complex application development.*** 
+### Frontend Framework/Libraries: 
+#### ***HTML, CSS, JavaScript for interface building.*** 
+### Database: 
+#### ***SQLite3 (development/testing) - Lightweight, serverless relational database.***
+### Image Processing:
+#### ***Pillow - Python Imaging Library for tasks like image upload, resize, and manipulation.***
