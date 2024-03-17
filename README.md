@@ -51,7 +51,7 @@ Streamlined manipulation and optimization of event-related images using Pillow w
 #### ***SQLite3 (development/testing) - Lightweight, serverless relational database.***
 ### Image Processing:
 #### ***Pillow - Python Imaging Library for tasks like image upload, resize, and manipulation.***
-# How to run locally
+# How to run locally :-
 ### **Clone the Repository:** 
 Clone this repository to your local machine using git clone https://github.com/preethika-11/EVENT-MANAGEMENT.git
 ### **Install Dependencies:**
@@ -66,8 +66,10 @@ Create a superuser account to access the Django admin interface using python man
 Start the Django development server by running python manage.py runserver.
 ### **Access the Application:**
 Access the application by navigating to http://127.0.0.1:8000/ in your web browser.
-# What's next
+# What's next :-
 ### Integration with External Platforms:
 Integrate with popular external platforms like social media and calendar applications for seamless data exchange and expanded functionality.
 ### AI and Machine Learning:
 Explore the integration of AI and machine learning algorithms for predictive analytics and intelligent event planning assistance.
+# Declaration :-
+We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
