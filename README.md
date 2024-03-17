@@ -32,15 +32,15 @@ The EMS facilitates communication between organizers and participants through au
 ### **Reporting:** 
 The system generates comprehensive reports on event attendance, feedback, finances, and other metrics, providing valuable insights for analysis and decision-making.
 # Technical Implementation :-
-**### Efficient Development Environment:**
+### **Efficient Development Environment:**
 VS Code provided a powerful and user-friendly environment for writing code, enhancing productivity.
-**### Seamless Integration with Django:**
+### **Seamless Integration with Django:**
 Simplified management of Django projects, database connections, and commands within the IDE.
-**### Enhanced Frontend Development:**
+### **Enhanced Frontend Development:**
 Streamlined frontend development with HTML, CSS, and JavaScript support, along with helpful extensions.
-**### Simplified Database Management:**
+### **Simplified Database Management:**
 Convenient handling of SQLite3  including executing queries and configurations.
-**### Efficient Image Processing:**
+### **Efficient Image Processing:**
 Streamlined manipulation and optimization of event-related images using Pillow within VS Code.
 # Tech stack :-
 ### Backend Framework: Django - A high-level Python web framework offering features like ORM, URL routing, authentication, and templating for complex application development.
