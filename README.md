@@ -1,3 +1,5 @@
+
+https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/783714f0-938d-4c7c-bad8-7c8439b33a60
 # Title :- EventCompass: Navigate, Create, Celebrate
 # Description :-
 The Django Event Management System is a web application designed to simplify the process of organizing and managing events. Built using the Django framework, it provides various features to facilitate event planning, coordination, and execution.
@@ -79,4 +81,5 @@ We confirm that the project showcased here was either developed entirely during 
 ![WhatsApp Image 2024-03-17 at 11 55 22_8e49f5cb](https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/c0a4af0d-cef7-4234-978b-36b5fd606aa1)
 ![WhatsApp Image 2024-03-17 at 12 09 01_acc91358](https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/47143cba-b46d-4b81-a752-8d014e92611a)
 ![WhatsApp Image 2024-03-17 at 12 11 03_0305ced3](https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/32f2c289-bcde-424c-90d6-270ffc429a4a)
-
+# Demo Video :-
+https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/f2fd2bbb-9f4a-4f7d-bef7-71e6db265320
