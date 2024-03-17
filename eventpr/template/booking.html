@@ -1,1 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Your Events</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            text-align: center;
+            margin-top: 50px;
+        }
+        form {
+            width: 300px;
+            margin: 0 auto;
+        }
+        input[type="text"],
+        input[type="tel"],
+        input[type="date"] {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 8px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: none;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Book Your Events</h1>
+        <form action="#" method="post" id="bookingForm">
+            <label for="customerName">Customer Name:</label>
+            <input type="text" id="customerName" name="customerName" required>
+            <label for="customerPhone">Customer Phone:</label>
+            <input type="tel" id="customerPhone" name="customerPhone" required>
+            <label for="eventName">Event Name:</label>
+            <input type="text" id="eventName" name="eventName" required>
+            <label for="bookingDate">Booking Date:</label>
+            <input type="date" id="bookingDate" name="bookingDate" required>
+            <input type="submit" value="Book Now">
+        </form>
+    </div>
+</body>
+</html>
 
