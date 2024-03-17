@@ -14,7 +14,7 @@ The Django Event Management System is a web application designed to simplify the
 #### ● P Sandiip Anish
 #### Mobile Number: 7395915824
 #### Email: sandiipanish.cse2022@citchennai.net
-# About the project
+# About the project :-
 ### **User-friendly Interface:** 
 The EMS provides a intuitive and user-friendly interface for event organizers to easily navigate and access all features.
 ### **Event Creation:** 
@@ -31,3 +31,19 @@ Participants can easily register for events online through a user-friendly regis
 The EMS facilitates communication between organizers and participants through automated email notifications, reminders, and updates, ensuring participants are informed about event details and any changes.
 ### **Reporting:** 
 The system generates comprehensive reports on event attendance, feedback, finances, and other metrics, providing valuable insights for analysis and decision-making.
+# Technical Implementation :-
+**### Efficient Development Environment:**
+VS Code provided a powerful and user-friendly environment for writing code, enhancing productivity.
+**### Seamless Integration with Django:**
+Simplified management of Django projects, database connections, and commands within the IDE.
+**### Enhanced Frontend Development:**
+Streamlined frontend development with HTML, CSS, and JavaScript support, along with helpful extensions.
+**### Simplified Database Management:**
+Convenient handling of SQLite3  including executing queries and configurations.
+**### Efficient Image Processing:**
+Streamlined manipulation and optimization of event-related images using Pillow within VS Code.
+# Tech stack :-
+### Backend Framework: Django - A high-level Python web framework offering features like ORM, URL routing, authentication, and templating for complex application development.
+### Frontend Framework/Libraries: HTML, CSS, JavaScript for interface building. 
+### Database: SQLite3 (development/testing) - Lightweight, serverless relational database. 
+### Image Processing: Pillow - Python Imaging Library for tasks like image upload, resize, and manipulation.
