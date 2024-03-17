@@ -73,3 +73,10 @@ Integrate with popular external platforms like social media and calendar applica
 Explore the integration of AI and machine learning algorithms for predictive analytics and intelligent event planning assistance.
 # Declaration :-
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
+# Output Screenshot :-
+![WhatsApp Image 2024-03-17 at 11 50 45_855f52b5](https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/3e426057-f572-40fd-a34c-1b85738f0c50)
+![WhatsApp Image 2024-03-17 at 11 57 20_6bfb0c56](https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/4d47847b-4767-4b1d-b6b5-ee6df55633e8)
+![WhatsApp Image 2024-03-17 at 11 55 22_8e49f5cb](https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/c0a4af0d-cef7-4234-978b-36b5fd606aa1)
+![WhatsApp Image 2024-03-17 at 12 09 01_acc91358](https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/47143cba-b46d-4b81-a752-8d014e92611a)
+![WhatsApp Image 2024-03-17 at 12 11 03_0305ced3](https://github.com/preethika-11/EVENT-MANAGEMENT/assets/132365016/32f2c289-bcde-424c-90d6-270ffc429a4a)
+
